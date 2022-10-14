@@ -12,7 +12,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Document</title>
+    <title>Miau Crochet</title>
 </head>
 <body>
     <h5 class="center-align" style="font-size: xxx-large; font-family: 'Alkalami', serif;">MIAU CROCHET</h5>
